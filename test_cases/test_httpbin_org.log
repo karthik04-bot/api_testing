@@ -1,0 +1,3 @@
+2024-08-05 00:24:55,166 Calling the get method
+2024-08-05 00:24:55,166 Starting new HTTPS connection (1): httpbin.org:443
+2024-08-05 00:24:56,065 https://httpbin.org:443 "GET /get HTTP/11" 200 309

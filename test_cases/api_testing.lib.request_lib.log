@@ -1,0 +1,12 @@
+2024-08-05 20:38:52,851 Calling the get method
+2024-08-05 20:38:52,851 Get Method for API is https://httpbin.org/get
+2024-08-05 20:38:52,851 Starting new HTTPS connection (1): httpbin.org:443
+2024-08-05 20:38:54,757 https://httpbin.org:443 "GET /get HTTP/11" 200 310
+2024-08-05 20:38:54,757 Response: 
+ <Response [200]>
+2024-08-05 20:38:54,757 Post Method API is <class 'api_testing.lib.request_lib.API'>.
+The payload for the same API : {'name': 'TestUser', 'id': 1}
+2024-08-05 20:38:54,757 Starting new HTTPS connection (1): httpbin.org:443
+2024-08-05 20:38:56,140 https://httpbin.org:443 "POST /post HTTP/11" 200 476
+2024-08-05 20:38:56,140 Response: 
+ <Response [200]>
